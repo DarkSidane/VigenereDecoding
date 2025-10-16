@@ -102,30 +102,6 @@ VigenereDecoding/
 └── README.md                    # This file
 ```
 
-### 🎓 Educational Value
-
-This project demonstrates:
-- Classical cryptanalysis techniques
-- Statistical analysis in cryptography
-- File I/O operations in C
-- Modular arithmetic
-- Algorithm optimization
-
-### ⚠️ Limitations
-
-- Works best with **French or English** texts (based on 'e' frequency assumption)
-- Requires sufficiently long ciphertext for accurate statistical analysis
-- Password length limited to 100 characters
-- Assumes standard Vigenère encryption (no variations)
-
-### 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest improvements
-- Add support for other languages
-- Optimize algorithms
-
 ---
 
 <div align="center">
@@ -222,30 +198,6 @@ VigenereDecoding/
 ├── fileDecouper.txt             # Analyse du texte découpé (temp)
 └── README.md                    # Ce fichier
 ```
-
-### 🎓 Valeur Éducative
-
-Ce projet démontre :
-- Les techniques de cryptanalyse classique
-- L'analyse statistique en cryptographie
-- Les opérations d'entrée/sortie de fichiers en C
-- L'arithmétique modulaire
-- L'optimisation d'algorithmes
-
-### ⚠️ Limitations
-
-- Fonctionne mieux avec des textes en **français ou anglais** (basé sur l'hypothèse de fréquence du 'e')
-- Nécessite un texte chiffré suffisamment long pour une analyse statistique précise
-- Longueur du mot de passe limitée à 100 caractères
-- Suppose un chiffrement Vigenère standard (sans variations)
-
-### 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- Signaler des bugs
-- Suggérer des améliorations
-- Ajouter le support d'autres langues
-- Optimiser les algorithmes
 
 ---
 
